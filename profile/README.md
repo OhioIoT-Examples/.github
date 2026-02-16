@@ -1,7 +1,7 @@
 
 # OhioIoT Code Examples
 
-## There are several Git Organizations created to hold the code examples created in the various videos on the OhioIoT YouTube channel.
+## This was the original repo to house the code samples shown in the OhioIoT YouTube videos.  But as the catalog grew, new repos were created for further organization.
 
 
 - [OhioIoT-ESP32-WiFi-Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples)

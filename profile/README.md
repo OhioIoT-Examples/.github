@@ -6,4 +6,4 @@
 
 - [OhioIoT-ESP32-WiFi-Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples)
 - [OhioIoT-ESP32-Provisioning-Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples)
-- [OhioIoT-ESP32-MQTT-Examples](https://github.com/OhioIoT-MQTT-Examples)
+- [OhioIoT-MQTT-Examples](https://github.com/OhioIoT-MQTT-Examples)

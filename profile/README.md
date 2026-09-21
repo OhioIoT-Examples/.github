@@ -7,6 +7,7 @@ The code samples for the varoius YouTube videos are held in different GitHub "or
 - [OhioIoT-ESP32-WiFi-Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples)
 - [OhioIoT-ESP32-Provisioning-Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples)
 - [OhioIoT-MQTT-Examples](https://github.com/OhioIoT-MQTT-Examples)
+- [OhioIoT-MCP Servers and MCP Connectors](https://github.com/OhioIoT-MCP)
 
 
 Also, feel free to stop by the website or YouTube Channel:

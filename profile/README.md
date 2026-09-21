@@ -11,3 +11,4 @@ This org only holds the repo for one of the OhioIoT videos from four years ago. 
 
 
 Also, feel free to stop by the website: [OhioIoT](https://ohioiot.com)
+Or, the YouTube channel: [OhioIoT](https://www.youtube.com/@ohioiot)

@@ -9,6 +9,7 @@ The code samples for the varoius YouTube videos are held in different GitHub "or
 - [OhioIoT-MQTT-Examples](https://github.com/OhioIoT-MQTT-Examples)
 
 
-Also, feel free to stop by the website: [OhioIoT](https://ohioiot.com)
+Also, feel free to stop by the website or YouTube Channel:
 
-Or, the YouTube channel: [OhioIoT](https://www.youtube.com/@ohioiot)
+- [OhioIoT Homepage](https://ohioiot.com)
+- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot)

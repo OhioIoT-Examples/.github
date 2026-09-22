@@ -10,7 +10,7 @@ The code samples for the varoius YouTube videos are held in different GitHub "or
 | 2 | ESP32 Provisioning | [Playlist](https://www.youtube.com/playlist?list=PLAilpW21Y-LATFwNOoMjxLlOdf8cnKywc) | [Git Org](https://github.com/OhioIoT-ESP32-Provisioning-Examples) |
 | 3 | MQTT | [Playlist](https://www.youtube.com/playlist?list=PLAilpW21Y-LCaGX3wlxcf2MCR4o3gyZp6) | [Git Org](https://github.com/OhioIoT-MQTT-Examples) |
 | 4 | MCP Servers | [Playlist](https://www.youtube.com/playlist?list=PLWt6fstOIpD0) | [Git Org](https://github.com/OhioIoT-MCP) |
-| 5 | Voice Controls | [TBC] | [Git Org](https://github.com/OhioIoT-Voice-Control) |
+| 5 | Voice Controls | [TBC] | [Git Org](https://github.com/OhioIoT-Voice-Controls) |
 
 
 <br />

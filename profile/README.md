@@ -4,7 +4,7 @@
 
 The code samples for the varoius YouTube videos are held in different GitHub "organizations" to provide some separation.  They can be found below:
 
-| # | Topic | YouTube Playlist | Git Organization |
+| # | Topic | YouTube Playlists | Corresponding Code |
 |---|-------|-------|------|
 | 1 | ESP32 WiFi | [Playlist](https://www.youtube.com/playlist?list=PLAilpW21Y-LAHbQl6HvIWl0VDeJ9daaME) | [Git Org](https://github.com/OhioIoT-ESP32-WiFi-Examples) |
 | 2 | ESP32 Provisioning | [Playlist](https://www.youtube.com/playlist?list=PLAilpW21Y-LATFwNOoMjxLlOdf8cnKywc) | [Git Org](https://github.com/OhioIoT-ESP32-Provisioning-Examples) |

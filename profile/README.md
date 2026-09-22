@@ -2,7 +2,7 @@
 # OhioIoT Code Examples
 
 
-The code samples for the varoius YouTube videos are held in different GitHub "organizations" to provide some separation.  They can be found below.
+The code samples for the varoius YouTube videos are held in different GitHub "organizations" to provide some separation.  They can be found below:
 
 - [ESP32 WiFi Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples)
 - [ESP32 Provisioning Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples)

@@ -4,12 +4,6 @@
 
 The code samples for the varoius YouTube videos are held in different GitHub "organizations" to provide some separation.  They can be found below:
 
-- [ESP32 WiFi Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples)
-- [ESP32 Provisioning Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples)
-- [MQTT Examples](https://github.com/OhioIoT-MQTT-Examples)
-- [MCP Servers (AI talks to your IoT data)](https://github.com/OhioIoT-MCP)
-- [Voice Controls](https://github.com/OhioIoT-Voice-Control)
-
 | # | Topic | YouTube Playlist | Git Organization |
 |---|-------|-------|------|
 | 1 | ESP32 WiFi Examples | [Playlist](https://www.youtube.com/playlist?list=PLAilpW21Y-LAHbQl6HvIWl0VDeJ9daaME) | [Git Org](https://github.com/OhioIoT-ESP32-WiFi-Examples |

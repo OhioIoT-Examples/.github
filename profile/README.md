@@ -13,7 +13,9 @@ The code samples for the varoius YouTube videos are held in different GitHub "or
 | 5 | Voice Controls | [TBC] | [Git Org](https://github.com/OhioIoT-Voice-Control) |
 
 
-Also, feel free to stop by the website or YouTube Channel:
+<br />
+Learn more about OhioIoT:
 
-- [OhioIoT Homepage](https://ohioiot.com)
-- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot)
+- [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
+- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda free tutorials showing you how to get started in IoT
+

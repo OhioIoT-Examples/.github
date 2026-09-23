@@ -17,5 +17,5 @@ The code samples for the varoius YouTube videos are held in different GitHub "or
 Learn more about OhioIoT:
 
 - [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
-- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda free tutorials showing you how to get started in IoT
+- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda-free tutorials showing you how to get started in IoT
 

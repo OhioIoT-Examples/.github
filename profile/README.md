@@ -14,8 +14,7 @@ The code samples for the varoius YouTube videos are held in different GitHub "or
 
 
 <br />
-Learn more about OhioIoT:
-
-- [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
-- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda-free tutorials showing you how to get started in IoT
+## Learn more about OhioIoT
+- [OhioIoT on the web](https://ohioiot.com) — the tools you need to put together your own IoT system with an ESP32. $7/mo.
+- [YouTube @ohioiot](https://www.youtube.com/@ohioiot) — agenda-free IoT tutorials
 

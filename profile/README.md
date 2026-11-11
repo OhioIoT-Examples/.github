@@ -14,7 +14,9 @@ The code samples for the varoius YouTube videos are held in different GitHub "or
 
 
 <br />
+
 ## Learn more about OhioIoT
+
 - [OhioIoT on the web](https://ohioiot.com) — the tools you need to put together your own IoT system with an ESP32. $7/mo.
 - [YouTube @ohioiot](https://www.youtube.com/@ohioiot) — agenda-free IoT tutorials
 

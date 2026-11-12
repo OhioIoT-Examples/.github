@@ -1,8 +1,8 @@
 
 # OhioIoT Examples
+[(back to OhioIoT GitHub Page)](https://github.com/OhioIoT)
 
-
-The code samples for the varoius YouTube videos are held in different GitHub "organizations" to provide some separation.  They can be found below:
+The code samples for the various YouTube videos are held in different GitHub "organizations" to provide some separation.  They can be found below:
 
 | # | Topic | YouTube | Code Examples |
 |---|-------|-------|------|

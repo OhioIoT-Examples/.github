@@ -18,5 +18,5 @@ The code samples for the various YouTube videos are held in different GitHub "or
 ## Learn more about OhioIoT
 
 - [OhioIoT on the web](https://ohioiot.com) — the tools you need to put together your own IoT system with an ESP32. $7/mo.
-- [YouTube @ohioiot](https://www.youtube.com/@ohioiot) — agenda-free IoT tutorials
+- [YouTube @ohioiot](https://www.youtube.com/@ohioiot) — practical ESP32 and Raspberry Pi projects with real, working code
 
